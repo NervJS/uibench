@@ -10,6 +10,11 @@
     "email": "localvoid@gmail.com",
     "url": "https://github.com/localvoid"
   },
+  "scripts": {
+    "deploy": "gulp deploy",
+    "serve": "gulp serve",
+    "build": "gulp"
+  },
   "keywords": [
     "uibench",
     "benchmark"

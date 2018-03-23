@@ -714,6 +714,13 @@ const state = {
       'comments': 'Virtual DOM. Benchmark is implemented as close as possible to React implementation, preserves internal state, all components are stateful, no explicit event delegation, etc.',
     },
     {
+      'name': 'Nerv',
+      'url': 'https://github.com/nervjs/nerv',
+      'benchmarkUrl': 'https://nervjs.github.io/nerv/benchmarks/uibench/',
+      'page': 'index.html',
+      'comments': 'Virtual DOM. Benchmark is implemented as close as possible to React implementation, preserves internal state, all components are stateful, no explicit event delegation, etc.',
+    },
+    {
       'name': 'Vanilla [innerHTML]',
       'url': 'https://github.com/localvoid/uibench-vanilla',
       'benchmarkUrl': 'https://localvoid.github.io/uibench-vanilla/innerhtml.html',

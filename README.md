@@ -1,6 +1,6 @@
 # UI Benchmark
 
-[Open](https://localvoid.github.io/uibench/)
+[Open](https://nervjs.github.io/uibench/)
 
 ## Reports
 
