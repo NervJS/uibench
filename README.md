@@ -1,6 +1,6 @@
 # UI Benchmark
 
-[Open](https://nervjs.github.io/uibench/)
+[Open](https://nervjs.github.io/uibench/build)
 
 ## Reports
 
